@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/beautowns-dashboard/static/css/main.357b4c9d.css",
+    "main.js": "/beautowns-dashboard/static/js/main.1c1d1921.js",
+    "static/media/loginBanner.png": "/beautowns-dashboard/static/media/loginBanner.9348e5e7b04d94d54346.png",
+    "static/media/Logo-02.png": "/beautowns-dashboard/static/media/Logo-02.01af4c11c2d93917b26f.png",
+    "static/media/img4.webp": "/beautowns-dashboard/static/media/img4.ea9ad3f92f4a0ebf3e9d.webp",
+    "static/media/signUpBan.png": "/beautowns-dashboard/static/media/signUpBan.e8ee71ab659723448c68.png",
+    "static/media/otpVerification.png": "/beautowns-dashboard/static/media/otpVerification.7d3fe16a2341423290fa.png",
+    "static/media/forgotPassword.png": "/beautowns-dashboard/static/media/forgotPassword.3b8ed6a6cece70a235f1.png",
+    "static/media/img3.webp": "/beautowns-dashboard/static/media/img3.67409ac124448dcbcdac.webp",
+    "static/media/img5.webp": "/beautowns-dashboard/static/media/img5.803504c55c08709cf5a9.webp",
+    "static/media/img6.webp": "/beautowns-dashboard/static/media/img6.a6504e20448b53d1edb8.webp",
+    "static/media/no_data_found.webp": "/beautowns-dashboard/static/media/no_data_found.b025d7ef383a458e6299.webp",
+    "static/media/img2.webp": "/beautowns-dashboard/static/media/img2.b12313009de61c0b9eb4.webp",
+    "static/media/img1.webp": "/beautowns-dashboard/static/media/img1.0d3f05be76ca73bea4e0.webp",
+    "static/media/resetPass.webp": "/beautowns-dashboard/static/media/resetPass.69faa84bfad752782a90.webp",
+    "index.html": "/beautowns-dashboard/index.html",
+    "main.357b4c9d.css.map": "/beautowns-dashboard/static/css/main.357b4c9d.css.map",
+    "main.1c1d1921.js.map": "/beautowns-dashboard/static/js/main.1c1d1921.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.357b4c9d.css",
+    "static/js/main.1c1d1921.js"
+  ]
+}
